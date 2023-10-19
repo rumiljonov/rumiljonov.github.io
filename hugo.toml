@@ -1,0 +1,6 @@
+baseURL = 'https://i.d0ner.me/'
+languageCode = 'en-us'
+title = 'Rustam Komildzhonov'
+theme = "stack"
+publishDir = "docs"
+
