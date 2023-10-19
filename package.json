@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vssue/api-github-v3": "^1.4.7"
+  }
+}
