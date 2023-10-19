@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Rustam Komildzhonov</title>
-        <link>https://i.d0ner.me/</link>
-        <description>Recent content on Rustam Komildzhonov</description>
+        <title>Posts on Rustam Komildzhonov</title>
+        <link>https://i.d0ner.me/posts/</link>
+        <description>Recent content in Posts on Rustam Komildzhonov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 20 Oct 2023 01:08:26 +0200</lastBuildDate><atom:link href="https://i.d0ner.me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Oct 2023 01:08:26 +0200</lastBuildDate><atom:link href="https://i.d0ner.me/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Challenge 1</title>
         <link>https://i.d0ner.me/posts/challenge-1/</link>
         <pubDate>Fri, 20 Oct 2023 01:08:26 +0200</pubDate>
